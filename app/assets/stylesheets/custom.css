@@ -1,0 +1,25 @@
+.center{
+	 float: right;
+	 align-self: right;
+}
+.jumbotron {
+	background-image: asset-url('desktop.jpg');
+	background-size: cover;
+}
+
+.jumbotron h1 ,h2 {
+	color: black;
+	text-align: center;
+	margin-bottom: 30px;
+	letter-spacing: -2px;
+	font-weight: bold;
+}
+
+.logo{
+	font-size: 1.5em;
+	text-transform: uppercase;
+	letter-spacing: -2px;
+	font-weight: bold;
+
+}
+
